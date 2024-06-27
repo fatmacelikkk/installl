@@ -1,1 +1,1 @@
-# installl
+pip install pycsp3
